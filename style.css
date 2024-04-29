@@ -83,3 +83,32 @@ button {
     align-self: center;
     color: #F9FAF8;
 }
+
+.content-info {
+    text-align: center;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.box-text {
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+}
+
+.box{
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
+    outline: solid blue 2px;
+    
+}
+
+.text {
+    align-self: center;
+}
+

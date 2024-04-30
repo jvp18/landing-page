@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 0;
 }
 
@@ -52,7 +52,8 @@ a, .small-description {
     align-self: center;
     flex-grow: 1 1 auto;
     flex-direction: column;
-    min-width: 400px;
+    min-width: 300px;
+    max-width: 600px;
 }
 
 .large-description{
@@ -144,7 +145,7 @@ button {
 .quote {
     font-size: 36px;
     font-style: italic;
-    font-weight: 100;
+    font-weight: light;
     color: #1F2937;
 }
 
